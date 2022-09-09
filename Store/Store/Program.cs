@@ -15,8 +15,8 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
 builder.Services.AddControllersWithViews();
 
 
-builder.Services.AddDefaultIdentity<IdentityUser>()
-  .AddRoles<IdentityRole>();
+//builder.Services.AddDefaultIdentity<IdentityUser>()
+//  .AddRoles<IdentityRole>();
 
 
 

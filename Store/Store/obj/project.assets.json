@@ -10326,11 +10326,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mvieira\\source\\repos\\Store\\Store\\Store.csproj",
+      "projectUniqueName": "C:\\Users\\mvieira\\source\\repos\\Store\\Store\\Store\\Store.csproj",
       "projectName": "Store",
-      "projectPath": "C:\\Users\\mvieira\\source\\repos\\Store\\Store\\Store.csproj",
+      "projectPath": "C:\\Users\\mvieira\\source\\repos\\Store\\Store\\Store\\Store.csproj",
       "packagesPath": "C:\\Users\\mvieira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mvieira\\source\\repos\\Store\\Store\\obj\\",
+      "outputPath": "C:\\Users\\mvieira\\source\\repos\\Store\\Store\\Store\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mvieira\\AppData\\Roaming\\NuGet\\NuGet.Config",
